@@ -1,2 +1,4 @@
 # hello-world
-Android repository 
+hi 
+I am Junaid khan 
+want to become professional 
